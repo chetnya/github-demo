@@ -3,7 +3,8 @@ A simple demo repository to show the basic Git workflow
 
 # starter web project
 
-##Introduction
+## Introduction
 
 ## Purpose
+## Deployment
 ## How
