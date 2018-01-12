@@ -13,7 +13,7 @@ As stated above , the main purpose is to provide simple examples for git trainin
 ## Deployment
 This is a simple web project , deployment can be on any server or local file system
 ## How  to contribute
-
+PLease fork this repository and then issue pull request for review.
 ###Copyright
 2018 Git.training
 
