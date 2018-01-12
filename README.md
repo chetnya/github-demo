@@ -12,4 +12,8 @@ and various command using a web projects
 As stated above , the main purpose is to provide simple examples for git training demos
 ## Deployment
 This is a simple web project , deployment can be on any server or local file system
-## How
+## How  to contribute
+
+###Copyright
+2018 Git.training
+
