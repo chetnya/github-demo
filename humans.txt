@@ -1,6 +1,11 @@
 new file for humans
+<<<<<<< HEAD
 
 
 
 
 update by another developer 
+=======
+update by another changes 
+now update the file 
+>>>>>>> aba675e1c06ef11d9249a6ea3874494566c4f7cd
