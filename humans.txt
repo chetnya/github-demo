@@ -9,3 +9,6 @@ update by another developer
 update by another changes 
 now update the file 
 please give review if you like this course.
+
+Adding for stash example 
+more technology added in this area.
